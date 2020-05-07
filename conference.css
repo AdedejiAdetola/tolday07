@@ -1,0 +1,32 @@
+body{background-color: grey;}
+#head{float:left;}
+h2{padding: 10px;
+padding-top: 0;
+text-align: center;}
+.link{
+float:right;}
+ul{list-style-type: none;}
+li{}
+ul li a{text-decoration: none;
+padding:15px;
+margin:0;
+background-color:skyblue;
+color:white;
+font-size: 10px;}
+a:hover{background-color:black;
+color:red;}
+h3{text-align: center;
+display:block;
+font-size:20px;}
+.p{margin:0 auto;
+text-align: center;
+font-size:15px;
+padding-bottom: 10px;}
+.reg{margin:0 auto;
+padding: 10px;
+margin-left:45%;
+padding-bottom: 20px;}
+.pven, .date{font-size:25px;}
+#shol{float:left;}
+#wish{float:right;}
+#kelt{background-color:white;}
